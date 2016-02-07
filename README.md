@@ -4,7 +4,8 @@ This is a starter pack for the type of methods one can use when using RobotC to 
 
 The point of this example is to save space, time, and mistakes by reducing the amount of code written.
 
-== Using the Code ==
+Using the Code
+--------------
 1. Ensure that output motors have local names that match those used in the code.
 2. Copy the desired methods into the task main area - after the { and before the }. Besure to inlcude the parentheses and any parameters between them if relevant.
 3. Write your own methods to make your robot do other things.
